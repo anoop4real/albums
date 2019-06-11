@@ -1,8 +1,46 @@
-{
-  "status": "success",
-  "data": {
-    "product1": 137,
-    "product2": 23,
-    "product3": 77
+[
+  {
+    "title": "Taylor Swift",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Fearless",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Speak Now",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Red",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "1989",
+    "artist": "Taylor Swift"
+  },
+    {
+    "title": "The King of Limbs",
+    "artist": "Radiohead"
+  },
+      {
+    "title": "Morning Mr Magpie",
+    "artist": "Radiohead"
+  },
+        {
+    "title": "Little by Little",
+    "artist": "Radiohead"
+  },
+          {
+    "title": "Dummy",
+    "artist": "Portishead"
+  },
+            {
+    "title": "Third",
+    "artist": "Portishead"
+  },
+              {
+    "title": "OK Computer",
+    "artist": "Portishead"
   }
-}
+]
